@@ -5,7 +5,7 @@ title = "Al-Mujahidin Mosque Kembangsri"
 paginate = "6"
 summaryLength = "10"
 disqusShortname = "almujahidinmosque" # get your shortname form here : https://disqus.com
-disableLanguages = [""]
+disableLanguages = ["en"]
 defaultContentLanguage = "id"
 
 ############################# Plugins ##############################
