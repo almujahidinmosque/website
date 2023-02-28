@@ -11,8 +11,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "Artikel Terbaru"
+        link : "blog/"
 
     # slider item loop
     - title : "Lorem ipsum dolor sit amet"
@@ -22,8 +22,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "Lihat Acara"
+        link : "event/"
 
     # slider item loop
     - title : "Lorem ipsum dolor sit amet"
@@ -33,8 +33,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "Lihat Galeri"
+        link : "gallery/"
 
 ############################### Banner feature ###############################
 banner_feature:
@@ -47,7 +47,7 @@ banner_feature:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 
     # feature item loop
-    - name : "Pengumuman"
+    - name : "Pemberitahuan"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 

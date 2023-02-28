@@ -1,17 +1,17 @@
 {{ define "main" }}
 
-<!-- research -->
+<!-- gallery -->
 <section class="section">
   <div class="container">
     <div class="row">
       {{ range .Data.Pages}}
-      <!-- research item -->
+      <!-- recharch item -->
       <div class="col-lg-4 col-sm-6 mb-4">
-        {{ .Render "research" }}</div>
+        {{ .Render "gallery" }}</div>
       {{ end }}
     </div>
   </div>
 </section>
-<!-- /research -->
+<!-- /gallery -->
 
 {{ end }}

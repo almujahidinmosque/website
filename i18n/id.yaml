@@ -94,6 +94,9 @@
 - id: courses
   translation: Kursus
 
+- id: gallery
+  translation: Galeri
+
 - id: new_notice
   translation: Pemberitahuan
 

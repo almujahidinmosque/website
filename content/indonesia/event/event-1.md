@@ -1,5 +1,5 @@
 ---
-title: "Social media and behavior economics conference"
+title: "Acara 1"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
@@ -13,9 +13,9 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # Event image
 image: "images/events/event-1.png"
 # location
-location: "Dhanmondi, Dhaka"
+location: "Ngoro, Mojokerto"
 # entry fee
-fee: "Dari: Rp. 250.000"
+fee: "Rp. 250.000"
 # apply url
 apply_url : "#"
 # event speaker

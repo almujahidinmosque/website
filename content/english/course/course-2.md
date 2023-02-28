@@ -1,5 +1,5 @@
 ---
-title: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+title: "Course 2"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image

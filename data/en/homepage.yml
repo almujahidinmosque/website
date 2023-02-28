@@ -11,8 +11,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "Latest Article"
+        link : "blog/"
 
     # slider item loop
     - title : "Your bright future is our mission"
@@ -22,8 +22,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "View Events"
+        link : "event/"
 
     # slider item loop
     - title : "Your bright future is our mission"
@@ -33,8 +33,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Daftar Sekarang"
-        link : "contact/"
+        label : "View Gallery"
+        link : "gallery/"
 
 ############################### Banner feature ###############################
 banner_feature:

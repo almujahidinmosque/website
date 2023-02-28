@@ -1,3 +1,6 @@
+
+- id: gallery
+  translation: Galeri
 - id: read_more
   translation: Read more
 
@@ -93,6 +96,9 @@
 
 - id: courses
   translation: Courses
+
+- id: gallery
+  translation: Gallery
 
 - id: new_notice
   translation: Notice

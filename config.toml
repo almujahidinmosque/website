@@ -4,7 +4,7 @@ title = "Al-Mujahidin Mosque Kembangsri"
 # post pagination
 paginate = "6"
 summaryLength = "10"
-disqusShortname = "almujahidinmosque" # get your shortname form here : https://disqus.com
+# disqusShortname = "almujahidinmosque" # get your shortname form here : https://disqus.com
 disableLanguages = ["en"]
 defaultContentLanguage = "id"
 
@@ -78,34 +78,35 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
+ # themify icon : https://themify.me/themify-icons
 [[params.social]]
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+icon = "ti-facebook"
 link = "https://www.facebook.com/almujahidinmosque"
 
 [[params.social]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+icon = "ti-twitter-alt"
 link = "https://twitter.com/almujahidinmosque"
 
 [[params.social]]
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "https://www.instagram.com/almujahidinmosque"
 
 [[params.social]]
-title = "tiktok"
-icon = "ti-tiktok" # themify icon : https://themify.me/themify-icons
-link = "https://www.tiktok.com/@almujahidinmosque"
-
-[[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+icon = "ti-github"
 link = "https://github.com/almujahidinmosque"
 
 # [[params.social]]
+# title = "tiktok"
+# icon = "ti-tiktok"
+# link = "https://www.tiktok.com/@almujahidinmosque"
+
+# [[params.social]]
 # title = "linkedin"
-# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# icon = "ti-linkedin"
 # link = "#"
 
 ################################### Indonesia language #####################################
@@ -146,20 +147,20 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 4
   parent = "Berita"
-  name = "Pengumuman"
+  name = "Pemberitahuan"
   url = "notice/"
 
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Berita"
   name = "Galeri"
-  url = "galeri/"
+  url = "gallery/"
 
   [[Languages.id.menu.main]]
   weight = 6
   parent = "Berita"
-  name = "Unduh"
-  url = "download/"
+  name = "Dokumen"
+  url = "document/"
 
 [[Languages.id.menu.main]]
 weight = 3
@@ -381,13 +382,13 @@ hasChildren = true
   weight = 5
   parent = "News"
   name = "Gallery"
-  url = "galeri/"
+  url = "gallery/"
 
   [[Languages.en.menu.main]]
   weight = 6
   parent = "News"
-  name = "Download"
-  url = "download/"
+  name = "Document"
+  url = "document/"
 
 [[Languages.en.menu.main]]
 weight = 3
