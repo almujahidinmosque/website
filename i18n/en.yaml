@@ -85,6 +85,12 @@
 - id: links
   translation: Links
 
+- id: blog
+  translation: Article
+
+- id: event
+  translation: Event
+
 - id: courses
   translation: Courses
 

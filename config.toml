@@ -5,7 +5,7 @@ title = "Al-Mujahidin Mosque Kembangsri"
 paginate = "6"
 summaryLength = "10"
 disqusShortname = "almujahidinmosque" # get your shortname form here : https://disqus.com
-disableLanguages = ["en"]
+disableLanguages = [""]
 defaultContentLanguage = "id"
 
 ############################# Plugins ##############################
@@ -43,7 +43,7 @@ logo = "images/logo.svg"
 description = "Masjid yang memberikan program dakwah seperti Kajian tematik, Subuh berkah, Jum'at berkah, halal bi halal dan program lainnya. Masjid ini terletak disisi jalan raya Ngoro, Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur."
 author = "Al-Mujahidin"
 # contact info
-address = "Jl. Ngoro, Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur 61385"
+address = "Jl. Raden Wijaya No. 1, Ds. Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur 61385"
 mobile = "+6281336762725"
 email = "almujahidinmosque.or.id@gmail.com"
 # contact form action
@@ -55,7 +55,7 @@ top_header = true
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.svg" # use jpg, png, svg or gif format.
 
 # Subscription
@@ -67,7 +67,7 @@ enable = true
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "-7.536192907739639"
 map_longitude = "112.6237298118676"
@@ -76,7 +76,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 [params.cookies]
 enable = true
 expire_days = 2
-  
+
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
@@ -121,55 +121,198 @@ copyright = "Hakcipta &copy; 2023 Masjid Al-Mujahidin"
 ################### Indonesia navigation ####################
 
 [[Languages.id.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 1
-
-[[Languages.id.menu.main]]
 weight = 2
-name = "Halaman"
+name = "Berita"
 hasChildren = true
 
   [[Languages.id.menu.main]]
-  parent = "Halaman"
-  name = "Pengajar"
-  url = "teacher/"
+  weight = 1
+  parent = "Berita"
+  name = "Artikel"
+  url = "blog/"
 
   [[Languages.id.menu.main]]
-  parent = "Halaman"
-  name = "Pemberitahuan"
-  url = "notice/"
-
-  [[Languages.id.menu.main]]
-  parent = "Halaman"
+  weight = 2
+  parent = "Berita"
   name = "Acara"
   url = "event/"
 
   [[Languages.id.menu.main]]
-  parent = "Halaman"
-  name = "Beasiswa"
-  url = "scholarship/"
+  weight = 3
+  parent = "Berita"
+  name = "Publikasi"
+  url = "publication/"
 
   [[Languages.id.menu.main]]
-  parent = "Halaman"
-  name = "Penelitian"
-  url = "research/"
+  weight = 4
+  parent = "Berita"
+  name = "Pengumuman"
+  url = "notice/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
+  parent = "Berita"
+  name = "Galeri"
+  url = "galeri/"
+
+  [[Languages.id.menu.main]]
+  weight = 6
+  parent = "Berita"
+  name = "Unduh"
+  url = "download/"
 
 [[Languages.id.menu.main]]
-name = "Kursus"
-url = "course/"
 weight = 3
+name = "Kajian"
+hasChildren = true
 
-# main menu
+  [[Languages.id.menu.main]]
+  weight = 1
+  parent = "Kajian"
+  name = "Murotal Al-Quran"
+  url = "murotal-alquran/"
+
+  [[Languages.id.menu.main]]
+  weight = 2
+  parent = "Kajian"
+  name = "Pengajian Subuh Berkah"
+  url = "subuh-study/"
+
+  [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Kajian"
+  name = "Pengajian Tafsir Al-Quran"
+  url = "quran-interpretation-study/"
+
+  [[Languages.id.menu.main]]
+  weight = 4
+  parent = "Kajian"
+  name = "Pengajian Tafsir Hadits"
+  url = "hadith-interpretation-study/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
+  parent = "Kajian"
+  name = "Pengajian Malam Jumat"
+  url = "friday-night-interpretation-study/"
+
+  [[Languages.id.menu.main]]
+  weight = 6
+  parent = "Kajian"
+  name = "Tadarus Safari"
+  url = "tadarus-safari/"
+
 [[Languages.id.menu.main]]
-name = "Profil"
-url = "about/"
 weight = 4
+name = "Agenda"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  weight = 1
+  parent = "Agenda"
+  name = "Ramadhan"
+  url = "ramadhan/"
+
+  [[Languages.id.menu.main]]
+  weight = 2
+  parent = "Agenda"
+  name = "Idul Adha"
+  url = "idul-adha/"
+
+  [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Agenda"
+  name = "Idul Fitri"
+  url = "idul-fitri/"
+
+  [[Languages.id.menu.main]]
+  weight = 4
+  parent = "Agenda"
+  name = "Refleksi Akhir Tahun"
+  url = "end-of-year-reflection/"
+
+# reference: https://donasi.dompetdhuafa.org
+[[Languages.id.menu.main]]
+weight = 5
+name = "Formulir"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  weight = 1
+  parent = "Formulir"
+  name = "Zakat/Infaq/Sedekah"
+  url = "zis/"
+
+  [[Languages.id.menu.main]]
+  weight = 2
+  parent = "Formulir"
+  name = "Donasi Kemanusiaan"
+  url = "human-donation/"
+
+  [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Formulir"
+  name = "Waqaf"
+  url = "waqaf/"
+
+  [[Languages.id.menu.main]]
+  weight = 4
+  parent = "Formulir"
+  name = "Tanya & Jawab"
+  url = "question-answer/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
+  parent = "Formulir"
+  name = "Pendataan"
+  url = "data-collection/"
 
 [[Languages.id.menu.main]]
-name = "Kontak"
-url = "contact/"
-weight = 5
+weight = 6
+name = "Profil"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  weight = 1
+  parent = "Profil"
+  name = "Sejarah"
+  url = "history/"
+
+  [[Languages.id.menu.main]]
+  weight = 2
+  parent = "Profil"
+  name = "Visi & Misi"
+  url = "vision-mission/"
+
+  [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Profil"
+  name = "Dewan Takmir"
+  url = "takmir-council/"
+
+  [[Languages.id.menu.main]]
+  weight = 4
+  parent = "Profil"
+  name = "Remaja Masjid"
+  url = "mosque-youth/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
+  parent = "Profil"
+  name = "Inventaris"
+  url = "inventory/"
+
+  [[Languages.id.menu.main]]
+  weight = 6
+  parent = "Profil"
+  name = "Lokasi"
+  url = "location/"
+
+  [[Languages.id.menu.main]]
+  weight = 7
+  parent = "Profil"
+  name = "Kontak"
+  url = "contact/"
 
 # footer menu
 
@@ -178,12 +321,12 @@ name = "Pengajar"
 url = "teacher/"
 
 [[Languages.id.menu.footer]]
-name = "Pemberitahuan"
-url = "notice/"
-
-[[Languages.id.menu.footer]]
 name = "Acara"
 url = "event/"
+
+[[Languages.id.menu.footer]]
+name = "Pemberitahuan"
+url = "notice/"
 
 [[Languages.id.menu.footer]]
 name = "Beasiswa"
@@ -203,58 +346,201 @@ home = "Home"
 # copyright
 copyright = "Copyright &copy; 2023 Al-Mujahidin Mosque"
 
-################### English navigation ####################
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 1
+################### Indonesia navigation ####################
 
 [[Languages.en.menu.main]]
 weight = 2
-name = "Pages"
+name = "News"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher/"
+  weight = 1
+  parent = "News"
+  name = "Artikel"
+  url = "blog/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
+  weight = 2
+  parent = "News"
+  name = "Event"
   url = "event/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
+  weight = 3
+  parent = "News"
+  name = "Publication"
+  url = "publication/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
+  weight = 4
+  parent = "News"
+  name = "Notice"
+  url = "notice/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
+  parent = "News"
+  name = "Gallery"
+  url = "galeri/"
+
+  [[Languages.en.menu.main]]
+  weight = 6
+  parent = "News"
+  name = "Download"
+  url = "download/"
 
 [[Languages.en.menu.main]]
-name = "course"
-url = "course/"
 weight = 3
+name = "Study"
+hasChildren = true
 
-# main menu
+  [[Languages.en.menu.main]]
+  weight = 1
+  parent = "Study"
+  name = "Murotal Al-Quran"
+  url = "murotal-alquran/"
+
+  [[Languages.en.menu.main]]
+  weight = 2
+  parent = "Study"
+  name = "Subuh-study"
+  url = "subuh-study/"
+
+  [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Study"
+  name = "Al-Quran Interpretation Study"
+  url = "quran-interpretation-study/"
+
+  [[Languages.en.menu.main]]
+  weight = 4
+  parent = "Study"
+  name = "Hadith Interpretation Study"
+  url = "hadith-interpretation-study/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
+  parent = "Study"
+  name = "Friday Night Interpretation Study"
+  url = "friday-night-interpretation-study/"
+
+  [[Languages.en.menu.main]]
+  weight = 6
+  parent = "Study"
+  name = "Tadarus Safari"
+  url = "tadarus-safari/"
+
 [[Languages.en.menu.main]]
-name = "Profile"
-url = "about/"
 weight = 4
+name = "Agenda"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  weight = 1
+  parent = "Agenda"
+  name = "Ramadhan"
+  url = "ramadhan/"
+
+  [[Languages.en.menu.main]]
+  weight = 2
+  parent = "Agenda"
+  name = "Eid al-Adha"
+  url = "idul-adha/"
+
+  [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Agenda"
+  name = "Eid al-Fitr"
+  url = "idul-fitri/"
+
+  [[Languages.en.menu.main]]
+  weight = 4
+  parent = "Agenda"
+  name = "End of Year Reflection"
+  url = "end-of-year-reflection/"
+
+# reference: https://donasi.dompetdhuafa.org
+[[Languages.en.menu.main]]
+weight = 5
+name = "Form"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  weight = 1
+  parent = "Form"
+  name = "Zakat/Infaq/Sedekah"
+  url = "zis/"
+
+  [[Languages.en.menu.main]]
+  weight = 2
+  parent = "Form"
+  name = "Human Donation"
+  url = "human-donation/"
+
+  [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Form"
+  name = "Waqaf"
+  url = "waqaf/"
+
+  [[Languages.en.menu.main]]
+  weight = 4
+  parent = "Form"
+  name = "Question & Answer"
+  url = "question-answer/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
+  parent = "Form"
+  name = "Data Collection"
+  url = "data-collection/"
 
 [[Languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
+weight = 6
+name = "Profile"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  weight = 1
+  parent = "Profile"
+  name = "History"
+  url = "history/"
+
+  [[Languages.en.menu.main]]
+  weight = 2
+  parent = "Profile"
+  name = "Vision & Mission"
+  url = "vision-mission/"
+
+  [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Profile"
+  name = "Takmir Council"
+  url = "takmir-council/"
+
+  [[Languages.en.menu.main]]
+  weight = 4
+  parent = "Profile"
+  name = "Mosque Youth"
+  url = "mosque-youth/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
+  parent = "Profile"
+  name = "Inventory"
+  url = "inventory/"
+
+  [[Languages.en.menu.main]]
+  weight = 6
+  parent = "Profile"
+  name = "Location"
+  url = "location/"
+
+  [[Languages.en.menu.main]]
+  weight = 7
+  parent = "Profile"
+  name = "Contact"
+  url = "contact/"
 
 # footer menu
 
