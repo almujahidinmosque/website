@@ -171,31 +171,31 @@ hasChildren = true
   weight = 1
   parent = "Kajian"
   name = "Khotmil Al-Quran"
-  url = "khotmil-alquran/"
+  url = "study/khotmil-quran/"
 
   [[Languages.id.menu.main]]
   weight = 2
   parent = "Kajian"
   name = "Pengajian Subuh Berkah"
-  url = "subuh-study/"
+  url = "study/subuh-blessing/"
 
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Kajian"
   name = "Pengajian Tafsir Al-Quran"
-  url = "quran-interpretation-study/"
+  url = "study/quran-interpretation/"
 
   [[Languages.id.menu.main]]
   weight = 4
   parent = "Kajian"
   name = "Pengajian Tafsir Hadits"
-  url = "hadith-interpretation-study/"
+  url = "study/hadith-interpretation/"
 
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Kajian"
   name = "Tadarus Safari"
-  url = "tadarus-safari/"
+  url = "study/tadarus-safari/"
 
 [[Languages.id.menu.main]]
 weight = 4
@@ -399,31 +399,31 @@ hasChildren = true
   weight = 1
   parent = "Study"
   name = "Khotmil Al-Quran"
-  url = "khotmil-alquran/"
+  url = "study/khotmil-quran/"
 
   [[Languages.en.menu.main]]
   weight = 2
   parent = "Study"
   name = "Subuh-study"
-  url = "subuh-study/"
+  url = "study/subuh-blessing/"
 
   [[Languages.en.menu.main]]
   weight = 3
   parent = "Study"
   name = "Al-Quran Interpretation Study"
-  url = "quran-interpretation-study/"
+  url = "study/quran-interpretation/"
 
   [[Languages.en.menu.main]]
   weight = 4
   parent = "Study"
   name = "Hadith Interpretation Study"
-  url = "hadith-interpretation-study/"
+  url = "study/hadith-interpretation/"
 
   [[Languages.en.menu.main]]
   weight = 5
   parent = "Study"
   name = "Tadarus Safari"
-  url = "tadarus-safari/"
+  url = "study/tadarus-safari/"
 
 [[Languages.en.menu.main]]
 weight = 4
