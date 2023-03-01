@@ -205,23 +205,29 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 1
   parent = "Agenda"
-  name = "Ramadhan"
-  url = "ramadhan/"
-
-  [[Languages.id.menu.main]]
-  weight = 2
-  parent = "Agenda"
   name = "Idul Adha"
   url = "idul-adha/"
 
   [[Languages.id.menu.main]]
-  weight = 3
+  weight = 2
   parent = "Agenda"
   name = "Idul Fitri"
   url = "idul-fitri/"
 
   [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Agenda"
+  name = "Ramadhan"
+  url = "ramadhan/"
+
+  [[Languages.id.menu.main]]
   weight = 4
+  parent = "Agenda"
+  name = "Pasar Rakyat"
+  url = "public-market/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
   parent = "Agenda"
   name = "Refleksi Akhir Tahun"
   url = "end-of-year-reflection/"
@@ -427,23 +433,29 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 1
   parent = "Agenda"
-  name = "Ramadhan"
-  url = "ramadhan/"
-
-  [[Languages.en.menu.main]]
-  weight = 2
-  parent = "Agenda"
   name = "Eid al-Adha"
   url = "idul-adha/"
 
   [[Languages.en.menu.main]]
-  weight = 3
+  weight = 2
   parent = "Agenda"
   name = "Eid al-Fitr"
   url = "idul-fitri/"
 
   [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Agenda"
+  name = "Ramadhan"
+  url = "ramadhan/"
+
+  [[Languages.en.menu.main]]
   weight = 4
+  parent = "Agenda"
+  name = "Public Market"
+  url = "public-market/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
   parent = "Agenda"
   name = "End of Year Reflection"
   url = "end-of-year-reflection/"
