@@ -206,31 +206,31 @@ hasChildren = true
   weight = 1
   parent = "Agenda"
   name = "Idul Adha"
-  url = "idul-adha/"
+  url = "agenda/eid-al-adha/"
 
   [[Languages.id.menu.main]]
   weight = 2
   parent = "Agenda"
   name = "Idul Fitri"
-  url = "idul-fitri/"
+  url = "agenda/eid-al-fitr/"
 
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Agenda"
   name = "Ramadhan"
-  url = "ramadhan/"
+  url = "agenda/ramadhan/"
 
   [[Languages.id.menu.main]]
   weight = 4
   parent = "Agenda"
   name = "Pasar Rakyat"
-  url = "public-market/"
+  url = "agenda/public-market/"
 
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Agenda"
   name = "Refleksi Akhir Tahun"
-  url = "end-of-year-reflection/"
+  url = "agenda/end-of-year-reflection/"
 
 # reference: https://donasi.dompetdhuafa.org
 [[Languages.id.menu.main]]
@@ -434,31 +434,31 @@ hasChildren = true
   weight = 1
   parent = "Agenda"
   name = "Eid al-Adha"
-  url = "idul-adha/"
+  url = "agenda/eid-al-adha/"
 
   [[Languages.en.menu.main]]
   weight = 2
   parent = "Agenda"
   name = "Eid al-Fitr"
-  url = "idul-fitri/"
+  url = "agenda/eid-al-fitr/"
 
   [[Languages.en.menu.main]]
   weight = 3
   parent = "Agenda"
   name = "Ramadhan"
-  url = "ramadhan/"
+  url = "agenda/ramadhan/"
 
   [[Languages.en.menu.main]]
   weight = 4
   parent = "Agenda"
   name = "Public Market"
-  url = "public-market/"
+  url = "agenda/public-market/"
 
   [[Languages.en.menu.main]]
   weight = 5
   parent = "Agenda"
   name = "End of Year Reflection"
-  url = "end-of-year-reflection/"
+  url = "agenda/end-of-year-reflection/"
 
 # reference: https://donasi.dompetdhuafa.org
 [[Languages.en.menu.main]]
