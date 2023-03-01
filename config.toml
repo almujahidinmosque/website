@@ -170,8 +170,8 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 1
   parent = "Kajian"
-  name = "Murotal Al-Quran"
-  url = "murotal-alquran/"
+  name = "Khotmil Al-Quran"
+  url = "khotmil-alquran/"
 
   [[Languages.id.menu.main]]
   weight = 2
@@ -193,12 +193,6 @@ hasChildren = true
 
   [[Languages.id.menu.main]]
   weight = 5
-  parent = "Kajian"
-  name = "Pengajian Malam Jumat"
-  url = "friday-night-interpretation-study/"
-
-  [[Languages.id.menu.main]]
-  weight = 6
   parent = "Kajian"
   name = "Tadarus Safari"
   url = "tadarus-safari/"
@@ -398,8 +392,8 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 1
   parent = "Study"
-  name = "Murotal Al-Quran"
-  url = "murotal-alquran/"
+  name = "Khotmil Al-Quran"
+  url = "khotmil-alquran/"
 
   [[Languages.en.menu.main]]
   weight = 2
@@ -421,12 +415,6 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   weight = 5
-  parent = "Study"
-  name = "Friday Night Interpretation Study"
-  url = "friday-night-interpretation-study/"
-
-  [[Languages.en.menu.main]]
-  weight = 6
   parent = "Study"
   name = "Tadarus Safari"
   url = "tadarus-safari/"
