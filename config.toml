@@ -1,4 +1,3 @@
-######################## default configuration ####################
 baseURL = "https://almujahidinmosque.netlify.app/"
 title = "Al-Mujahidin Mosque Kembangsri"
 # post pagination
@@ -7,8 +6,6 @@ summaryLength = "10"
 # disqusShortname = "almujahidinmosque" # get your shortname form here : https://disqus.com
 disableLanguages = ["en"]
 defaultContentLanguage = "id"
-
-############################# Plugins ##############################
 
 # CSS Plugins
 [[params.plugins.css]]
@@ -40,8 +37,8 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.svg"
 # Meta data
-description = "Masjid yang memberikan program dakwah seperti Kajian tematik, Subuh berkah, Jum'at berkah, halal bi halal dan program lainnya. Masjid ini terletak disisi jalan raya Ngoro, Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur."
-author = "Al-Mujahidin"
+description = "Masjid dengan program dakwah Kajian rutin, Subuh berkah, Jum'at berkah, Pasar Rakyat dan program lainnya. Terletak disisi jalan raya Ngoro, Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur."
+author = "Al-Mujahidin Mosque"
 # contact info
 address = "Jl. Raden Wijaya No. 1, Ds. Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur 61385"
 mobile = "+6281336762725"
@@ -77,7 +74,6 @@ map_marker = "images/marker.png" # marker size 37*55 px
 enable = true
 expire_days = 2
 
-############################# social site ########################
  # themify icon : https://themify.me/themify-icons
 [[params.social]]
 title = "facebook"
@@ -109,7 +105,8 @@ link = "https://github.com/almujahidinmosque"
 # icon = "ti-linkedin"
 # link = "#"
 
-################################### Indonesia language #####################################
+# Indonesia navigation
+
 [Languages.id]
 languageName = "ID"
 languageCode = "id-id"
@@ -119,7 +116,7 @@ home = "Beranda"
 # copyright
 copyright = "Hakcipta &copy; 2023 Masjid Al-Mujahidin"
 
-################### Indonesia navigation ####################
+# Indonesia navigation
 
 [[Languages.id.menu.main]]
 weight = 2
@@ -337,7 +334,8 @@ url = "scholarship/"
 name = "Penelitian"
 url = "research/"
 
-################################### English language #####################################
+# English navigation
+
 [Languages.en]
 languageName = "EN"
 languageCode = "en-us"
@@ -347,7 +345,7 @@ home = "Home"
 # copyright
 copyright = "Copyright &copy; 2023 Al-Mujahidin Mosque"
 
-################### Indonesia navigation ####################
+# English navigation
 
 [[Languages.en.menu.main]]
 weight = 2
