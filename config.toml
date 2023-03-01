@@ -239,31 +239,31 @@ hasChildren = true
   weight = 1
   parent = "Formulir"
   name = "Zakat/Infaq/Sedekah"
-  url = "zis/"
+  url = "form/zis/"
 
   [[Languages.id.menu.main]]
   weight = 2
   parent = "Formulir"
   name = "Donasi Kemanusiaan"
-  url = "human-donation/"
+  url = "form/human-donation/"
 
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Formulir"
   name = "Waqaf"
-  url = "waqaf/"
+  url = "form/waqaf/"
 
   [[Languages.id.menu.main]]
   weight = 4
   parent = "Formulir"
   name = "Tanya & Jawab"
-  url = "question-answer/"
+  url = "form/question-answer/"
 
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Formulir"
   name = "Pendataan"
-  url = "data-collection/"
+  url = "form/data-collection/"
 
 [[Languages.id.menu.main]]
 weight = 6
@@ -274,43 +274,43 @@ hasChildren = true
   weight = 1
   parent = "Profil"
   name = "Sejarah"
-  url = "history/"
+  url = "profile/history/"
 
   [[Languages.id.menu.main]]
   weight = 2
   parent = "Profil"
   name = "Visi & Misi"
-  url = "vision-mission/"
+  url = "profile/vision-mission/"
 
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Profil"
   name = "Dewan Takmir"
-  url = "takmir-council/"
+  url = "profile/takmir-council/"
 
   [[Languages.id.menu.main]]
   weight = 4
   parent = "Profil"
   name = "Remaja Masjid"
-  url = "mosque-youth/"
+  url = "profile/mosque-youth/"
 
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Profil"
   name = "Inventaris"
-  url = "inventory/"
+  url = "profile/inventory/"
 
   [[Languages.id.menu.main]]
   weight = 6
   parent = "Profil"
   name = "Lokasi"
-  url = "location/"
+  url = "profile/location/"
 
   [[Languages.id.menu.main]]
   weight = 7
   parent = "Profil"
   name = "Kontak"
-  url = "contact/"
+  url = "profile/contact/"
 
 # footer menu
 
@@ -468,31 +468,31 @@ hasChildren = true
   weight = 1
   parent = "Form"
   name = "Zakat/Infaq/Sedekah"
-  url = "zis/"
+  url = "form/zis/"
 
   [[Languages.en.menu.main]]
   weight = 2
   parent = "Form"
   name = "Human Donation"
-  url = "human-donation/"
+  url = "form/human-donation/"
 
   [[Languages.en.menu.main]]
   weight = 3
   parent = "Form"
   name = "Waqaf"
-  url = "waqaf/"
+  url = "form/waqaf/"
 
   [[Languages.en.menu.main]]
   weight = 4
   parent = "Form"
   name = "Question & Answer"
-  url = "question-answer/"
+  url = "form/question-answer/"
 
   [[Languages.en.menu.main]]
   weight = 5
   parent = "Form"
   name = "Data Collection"
-  url = "data-collection/"
+  url = "form/data-collection/"
 
 [[Languages.en.menu.main]]
 weight = 6
@@ -503,43 +503,43 @@ hasChildren = true
   weight = 1
   parent = "Profile"
   name = "History"
-  url = "history/"
+  url = "profile/history/"
 
   [[Languages.en.menu.main]]
   weight = 2
   parent = "Profile"
   name = "Vision & Mission"
-  url = "vision-mission/"
+  url = "profile/vision-mission/"
 
   [[Languages.en.menu.main]]
   weight = 3
   parent = "Profile"
   name = "Takmir Council"
-  url = "takmir-council/"
+  url = "profile/takmir-council/"
 
   [[Languages.en.menu.main]]
   weight = 4
   parent = "Profile"
   name = "Mosque Youth"
-  url = "mosque-youth/"
+  url = "profile/mosque-youth/"
 
   [[Languages.en.menu.main]]
   weight = 5
   parent = "Profile"
   name = "Inventory"
-  url = "inventory/"
+  url = "profile/inventory/"
 
   [[Languages.en.menu.main]]
   weight = 6
   parent = "Profile"
   name = "Location"
-  url = "location/"
+  url = "profile/location/"
 
   [[Languages.en.menu.main]]
   weight = 7
   parent = "Profile"
   name = "Contact"
-  url = "contact/"
+  url = "profile/contact/"
 
 # footer menu
 
