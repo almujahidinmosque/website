@@ -12,6 +12,6 @@ image: "images/study/study-1.png"
 type: "study"
 ---
 
-### About Refleksi Akhir Tahun
+### Tentang Refleksi Akhir Tahun
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

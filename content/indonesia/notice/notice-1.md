@@ -12,7 +12,7 @@ download_link : "#"
 type: "notice"
 ---
 
-### About Notice
+### Tentang Notice
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.
 

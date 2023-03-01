@@ -12,7 +12,7 @@ download_link : "#"
 type: "document"
 ---
 
-### About Dokumen
+### Tentang Dokumen
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.
 

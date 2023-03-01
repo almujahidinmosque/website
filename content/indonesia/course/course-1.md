@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 ---
 
-### About Course
+### Tentang Course
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.
 

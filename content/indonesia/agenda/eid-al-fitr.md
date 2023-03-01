@@ -12,6 +12,6 @@ image: "images/study/study-1.png"
 type: "study"
 ---
 
-### About Idul Fitri
+### Tentang Idul Fitri
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

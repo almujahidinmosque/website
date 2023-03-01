@@ -12,6 +12,6 @@ image: "images/research/research-1.png"
 type: "research"
 ---
 
-### About Research
+### Tentang Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

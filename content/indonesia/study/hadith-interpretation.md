@@ -12,6 +12,6 @@ image: "images/study/study-1.png"
 type: "study"
 ---
 
-### About Pengajian Tafsir Hadits
+### Tentang Pengajian Tafsir Hadits
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

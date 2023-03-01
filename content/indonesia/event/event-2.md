@@ -44,6 +44,6 @@ speaker:
 type: "event"
 ---
 
-### About Event
+### Tentang Event
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

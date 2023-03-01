@@ -12,6 +12,6 @@ image: "images/publication/publication-1.png"
 type: "publication"
 ---
 
-### About Publikasi
+### Tentang Publikasi
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

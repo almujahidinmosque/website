@@ -54,5 +54,5 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### Tentang Saya
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.

@@ -14,6 +14,6 @@ download_link : "#"
 type: "gallery"
 ---
 
-### About Galeri
+### Tentang Galeri
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.
