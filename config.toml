@@ -36,6 +36,7 @@ link = "plugins/google-map/gmap.js"
 #################### default parameters ################################
 [params]
 logo = "images/logo.svg"
+logo_footer = "images/logo_footer.svg"
 # Meta data
 description = "Masjid dengan program dakwah Kajian rutin, Subuh berkah, Jum'at berkah, Pasar Rakyat dan program lainnya. Terletak disisi jalan raya Ngoro, Kembangsri, Kec. Ngoro, Kabupaten Mojokerto, Jawa Timur."
 author = "Al-Mujahidin Mosque"
