@@ -363,17 +363,24 @@ textarea.form-control{
   }
 
   table {
-    text-align: left;
-    width: 100%;
-    max-width: 100%;
+    display: block;
     margin-bottom: 1rem;
-    border: 1px solid #dee2e6;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    overflow-x: auto;
+    table-layout: fixed;
+    text-align: left;
+    white-space: nowrap;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
 
     th,
     td {
       padding: .75rem;
       vertical-align: top;
-      border: 1px solid #dee2e6
+      border: 1px solid #dee2e6;
+      white-space: nowrap;
     }
 
     thead {
