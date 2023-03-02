@@ -10,7 +10,7 @@ function initialize() {
   var style = [{
       "featureType": "landscape",
       "stylers": [{
-          "hue": "#0E9948"
+          "hue": "#1E4b29"
         },
         {
           "saturation": 50.2
@@ -26,7 +26,7 @@ function initialize() {
     {
       "featureType": "road.highway",
       "stylers": [{
-          "hue": "#0E9948"
+          "hue": "#1E4b29"
         },
         {
           "saturation": -19.8
@@ -42,7 +42,7 @@ function initialize() {
     {
       "featureType": "road.arterial",
       "stylers": [{
-          "hue": "#0E9948"
+          "hue": "#1E4b29"
         },
         {
           "saturation": 72.4
@@ -58,7 +58,7 @@ function initialize() {
     {
       "featureType": "road.local",
       "stylers": [{
-          "hue": "#0E9948"
+          "hue": "#1E4b29"
         },
         {
           "saturation": 74.4
@@ -90,7 +90,7 @@ function initialize() {
     {
       "featureType": "poi",
       "stylers": [{
-          "hue": "#0E9948"
+          "hue": "#1E4b29"
         },
         {
           "saturation": 54.2
