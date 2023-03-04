@@ -20,8 +20,6 @@
     }
   });
 
-  
-
   // Background-images
   $('[data-background]').each(function () {
     $(this).css({
@@ -78,7 +76,7 @@
         }).animate({
           countNum: countTo
         }, {
-          duration: 1000,
+          duration: 5000,
           easing: 'swing',
           step: function () {
             $this.text(Math.floor(this.countNum));

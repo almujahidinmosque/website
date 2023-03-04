@@ -230,9 +230,56 @@ hasChildren = true
   name = "Refleksi Akhir Tahun"
   url = "agenda/end-of-year-reflection/"
 
-# reference: https://donasi.dompetdhuafa.org
 [[Languages.id.menu.main]]
 weight = 5
+name = "Layanan"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  weight = 1
+  parent = "Layanan"
+  name = "Cek Kesehatan"
+  url = "service/health-check/"
+
+  [[Languages.id.menu.main]]
+  weight = 2
+  parent = "Layanan"
+  name = "Pembagian Sembako"
+  url = "service/food-distribution/"
+
+  [[Languages.id.menu.main]]
+  weight = 3
+  parent = "Layanan"
+  name = "Santunan Yatim & Duafa"
+  url = "service/orphan-dhuafa/"
+
+  [[Languages.id.menu.main]]
+  weight = 4
+  parent = "Layanan"
+  name = "Bina Lingkungan"
+  url = "service/community-development/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
+  parent = "Layanan"
+  name = "Khitanan Massal"
+  url = "service/mass-circumcision/"
+
+  [[Languages.id.menu.main]]
+  weight = 6
+  parent = "Layanan"
+  name = "Tanggap Digital"
+  url = "service/digital-response/"
+
+  [[Languages.id.menu.main]]
+  weight = 7
+  parent = "Layanan"
+  name = "Pengurusan Jenazah"
+  url = "layanan/corpse-management/"
+
+# reference: https://donasi.dompetdhuafa.org
+[[Languages.id.menu.main]]
+weight = 6
 name = "Formulir"
 hasChildren = true
 
@@ -251,7 +298,7 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Formulir"
-  name = "Waqaf"
+  name = "Waqaf Online"
   url = "form/waqaf/"
 
   [[Languages.id.menu.main]]
@@ -263,11 +310,17 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Formulir"
+  name = "Pendaftaran Pedagang"
+  url = "form/merchant-registration/"
+
+  [[Languages.id.menu.main]]
+  weight = 6
+  parent = "Formulir"
   name = "Pendataan"
   url = "form/data-collection/"
 
 [[Languages.id.menu.main]]
-weight = 6
+weight = 7
 name = "Profil"
 hasChildren = true
 
@@ -335,7 +388,7 @@ url = "scholarship/"
 name = "Penelitian"
 url = "research/"
 
-# English navigation
+##### English navigation #####
 
 [Languages.en]
 languageName = "EN"
@@ -403,7 +456,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 2
   parent = "Study"
-  name = "Subuh-study"
+  name = "Subuh Study"
   url = "study/subuh-blessing/"
 
   [[Languages.en.menu.main]]
@@ -459,9 +512,56 @@ hasChildren = true
   name = "End of Year Reflection"
   url = "agenda/end-of-year-reflection/"
 
-# reference: https://donasi.dompetdhuafa.org
 [[Languages.en.menu.main]]
 weight = 5
+name = "Service"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  weight = 1
+  parent = "Service"
+  name = "Health Check"
+  url = "service/health-check/"
+
+  [[Languages.en.menu.main]]
+  weight = 2
+  parent = "Service"
+  name = "Food distribution"
+  url = "service/food-distribution/"
+
+  [[Languages.en.menu.main]]
+  weight = 3
+  parent = "Service"
+  name = "Donations Orphan & Dhuafa"
+  url = "service/orphan-dhuafa/"
+
+  [[Languages.en.menu.main]]
+  weight = 4
+  parent = "Service"
+  name = "Community Development"
+  url = "service/community-development/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
+  parent = "Service"
+  name = "Mass Circumcision"
+  url = "service/mass-circumcision/"
+
+  [[Languages.en.menu.main]]
+  weight = 6
+  parent = "Service"
+  name = "Digital Response"
+  url = "service/digital-response/"
+
+  [[Languages.en.menu.main]]
+  weight = 7
+  parent = "Service"
+  name = "Corpse Mmanagement"
+  url = "layanan/corpse-management/"
+
+# reference: https://donasi.dompetdhuafa.org
+[[Languages.en.menu.main]]
+weight = 6
 name = "Form"
 hasChildren = true
 
@@ -480,7 +580,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 3
   parent = "Form"
-  name = "Waqaf"
+  name = "Waqaf Online"
   url = "form/waqaf/"
 
   [[Languages.en.menu.main]]
@@ -489,8 +589,14 @@ hasChildren = true
   name = "Question & Answer"
   url = "form/question-answer/"
 
-  [[Languages.en.menu.main]]
+  [[Languages.id.menu.main]]
   weight = 5
+  parent = "Formulir"
+  name = "Merchant Registration"
+  url = "form/merchant-registration/"
+
+  [[Languages.en.menu.main]]
+  weight = 6
   parent = "Form"
   name = "Data Collection"
   url = "form/data-collection/"

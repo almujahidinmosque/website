@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-web.webp"
   slider_item:
     # slider item loop
-    - title : "Lorem ipsum dolor sit amet"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Masjid sebagai sumber pencerahan masyarakat"
+      content : "Merupakan tempat ibadah yang memiliki aktifitas kehidupan sosial di masyarakat yang berupa kegiatan kajian dan program dengan nilai islami."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,19 +15,19 @@ slider:
         link : "blog/"
 
     # slider item loop
-    - title : "Lorem ipsum dolor sit amet"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Menebar ilmu dalam aspek wawasan dan pengetahuan"
+      content : "Berbagai macam jadwal tausyiah, kajian, program yang telah diupayakan untuk memperkuat dan memberdayakan ummat."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Lihat Acara"
+        label : "Lihat Jadwal"
         link : "event/"
 
     # slider item loop
-    - title : "Lorem ipsum dolor sit amet"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Kegiatan sosial masyarakat dengan nilai-nilai islami"
+      content : "Setiap kegiatan di Masjid Al-Mujahidin didokumentasikan dengan baik yang disimpan dalam galeri."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -42,22 +42,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Beasiswa"
+    - name : "Subuh Berkah"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 
     # feature item loop
-    - name : "Pemberitahuan"
+    - name : "Jum'at Berkah"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 
     # feature item loop
-    - name : "Prestasi"
+    - name : "Pasar Rakyat"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 
     # feature item loop
-    - name : "Penerimaan"
+    - name : "Pembagian Sembako"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
 
