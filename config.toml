@@ -369,24 +369,29 @@ hasChildren = true
 # footer menu
 
 [[Languages.id.menu.footer]]
-name = "Pengajar"
-url = "teacher/"
-
-[[Languages.id.menu.footer]]
+weight = 1
 name = "Acara"
 url = "event/"
 
 [[Languages.id.menu.footer]]
+weight = 2
+name = "Layanan"
+url = "service/"
+
+[[Languages.id.menu.footer]]
+weight = 3
 name = "Pemberitahuan"
 url = "notice/"
 
 [[Languages.id.menu.footer]]
-name = "Beasiswa"
-url = "scholarship/"
+weight = 4
+name = "Galeri"
+url = "gallery/"
 
 [[Languages.id.menu.footer]]
-name = "Penelitian"
-url = "research/"
+weight = 5
+name = "Formulir"
+url = "form/"
 
 ##### English navigation #####
 
@@ -409,7 +414,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 1
   parent = "News"
-  name = "Artikel"
+  name = "Article"
   url = "blog/"
 
   [[Languages.en.menu.main]]
@@ -591,7 +596,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   weight = 5
-  parent = "Formulir"
+  parent = "Form"
   name = "Merchant Registration"
   url = "form/merchant-registration/"
 
@@ -651,21 +656,26 @@ hasChildren = true
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "Teacher"
-url = "teacher/"
-
-[[Languages.en.menu.footer]]
-name = "Notice"
-url = "notice/"
-
-[[Languages.en.menu.footer]]
+weight = 1
 name = "Event"
 url = "event/"
 
 [[Languages.en.menu.footer]]
-name = "Scholarship"
-url = "scholarship/"
+weight = 2
+name = "Service"
+url = "service/"
 
 [[Languages.en.menu.footer]]
-name = "Research"
-url = "research/"
+weight = 3
+name = "Notice"
+url = "notice/"
+
+[[Languages.en.menu.footer]]
+weight = 4
+name = "Gallery"
+url = "gallery/"
+
+[[Languages.en.menu.footer]]
+weight = 5
+name = "Form"
+url = "form/"
