@@ -275,7 +275,7 @@ hasChildren = true
   weight = 7
   parent = "Layanan"
   name = "Pengurusan Jenazah"
-  url = "layanan/corpse-management/"
+  url = "service/corpse-management/"
 
 # reference: https://donasi.dompetdhuafa.org
 [[Languages.id.menu.main]]
@@ -557,7 +557,7 @@ hasChildren = true
   weight = 7
   parent = "Service"
   name = "Corpse Mmanagement"
-  url = "layanan/corpse-management/"
+  url = "service/corpse-management/"
 
 # reference: https://donasi.dompetdhuafa.org
 [[Languages.en.menu.main]]
