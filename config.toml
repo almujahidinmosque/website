@@ -556,7 +556,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 7
   parent = "Service"
-  name = "Corpse Mmanagement"
+  name = "Corpse Management"
   url = "service/corpse-management/"
 
 # reference: https://donasi.dompetdhuafa.org
