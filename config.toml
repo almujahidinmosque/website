@@ -589,7 +589,7 @@ hasChildren = true
   name = "Question & Answer"
   url = "form/question-answer/"
 
-  [[Languages.id.menu.main]]
+  [[Languages.en.menu.main]]
   weight = 5
   parent = "Formulir"
   name = "Merchant Registration"
