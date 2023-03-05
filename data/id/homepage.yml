@@ -26,7 +26,7 @@ slider:
         link : "event/"
 
     # slider item loop
-    - title : "Kegiatan sosial masyarakat dengan nilai-nilai islami"
+    - title : "Kegiatan sosial masyarakat dengan nilai islami"
       content : "Setiap kegiatan di Masjid Al-Mujahidin didokumentasikan dengan baik yang disimpan dalam galeri."
       animation_in : "left"
       animation_out : "right"
