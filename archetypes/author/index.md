@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 draft: true
 # meta description
-description: "Description"
+description: "This is meta description"
 email: "@example.or.id"
 # portrait
 image: "images/author/{{ .Name }}.png"
