@@ -160,6 +160,12 @@ hasChildren = true
   name = "Dokumen"
   url = "document/"
 
+  [[Languages.id.menu.main]]
+  weight = 7
+  parent = "Berita"
+  name = "Jadwal"
+  url = "schedule/"
+
 [[Languages.id.menu.main]]
 weight = 3
 name = "Kajian"
@@ -446,6 +452,12 @@ hasChildren = true
   parent = "News"
   name = "Document"
   url = "document/"
+
+  [[Languages.en.menu.main]]
+  weight = 7
+  parent = "News"
+  name = "Schedule"
+  url = "schedule/"
 
 [[Languages.en.menu.main]]
 weight = 3
