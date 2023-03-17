@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Lihat Jadwal"
+        label : "Jadwal Acara"
         link : "event/"
 
     # slider item loop
