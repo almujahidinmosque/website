@@ -9,7 +9,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # post thumbnail
 image: "images/blog/post-2.jpg"
 # post author
-author: "Al Mujahidin Mosque"
+author: "Takmir Al-Mujahidin"
 # taxonomy
 categories: ["Education System"]
 tags: ["Education", "Automation"]

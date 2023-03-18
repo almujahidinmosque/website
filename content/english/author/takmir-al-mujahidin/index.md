@@ -1,5 +1,5 @@
 ---
-title: "Al Mujahidin Mosque"
+title: "Al-Mujahidin Mosque"
 draft: false
 # meta description
 description: "Description"
