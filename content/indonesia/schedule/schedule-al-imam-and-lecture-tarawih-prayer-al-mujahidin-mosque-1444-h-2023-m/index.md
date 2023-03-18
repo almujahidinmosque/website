@@ -13,6 +13,10 @@ image: "images/schedule/schedule-al-imam-and-lecture-tarawih-prayer-al-mujahidin
 type: "schedule"
 ---
 
+Dilansir dari [Suara Muhammadiyah](https://suaramuhammadiyah.id/2023/01/31/muhammadiyah-tetapkan-awal-ramadan-syawal-dan-zulhijah-1444-h-2023-m/) berdasarkan surat edaran yang diterbitkan oleh Majelis Tarjih dan Tajdid Pimpinan Pusat Muhammadiyah yang keluar pada 29 Jumadilawal 1444 H bertepatan 23 Desember 2022 M, bahwa tanggal **1 Ramadan 1444 H** jatuh pada hari **Kamis Pon, 23 Maret 2023 M**.
+
+Berikut ini adalah jadwal imam dan penceramah tarawih pada bulan suci Ramadhan 1444 H/2023 di Masjid-Musholla Al-Mujahidin.
+
 ## 1. Masjid Al-Mujahidin
 
 | NO | HARI/TANGGAL | IMAM SHOLAT ISYA' | IMAM SHOLAT TARAWIH | KULTUM |
@@ -75,7 +79,7 @@ type: "schedule"
 | 20. | Selasa, 10-04-2023 | Ahmad Gimnastiar | A. Farid Akbar | - |
 | 21. | Rabu, 11-04-2023 | Aris Munandar | Abdurrohman | - |
 | 22. | Kamis, 12-04-2023 | Abdul Munir | M.Syuhud | - |
-| 23. | Jum’at,13-04-2023 | Siswanto | Muslimin | - |
+| 23. | Jum’at, 13-04-2023 | Siswanto | Muslimin | - |
 | 24. | Sabtu, 14-04-2023 | Abdul Wahib | Zainul Abidin | - |
 | 25. | Ahad, 15-04-2023 | Drs. Sudarmaji | Miftakhuddin L | - |
 | 26. | Senin, 16-04-2023 | Ahmad Gimnastiar | Abdurrohman | Putra Nur Hasan |
@@ -89,7 +93,7 @@ type: "schedule"
 | NO | HARI/TANGGAL | IMAM SHOLAT ISYA' | IMAM SHOLAT TARAWIH | KULTUM |
 | --- | --- | --- | --- | --- |
 | 1. | Rabu, 22-03-2023 | Muh. Syuhud | Abdul Nafi’ | Syaironi |
-| 2. | Kamis, 23 -03-2023 | M. Imron Rosyadi | Abdul Munir | - |
+| 2. | Kamis, 23-03-2023 | M. Imron Rosyadi | Abdul Munir | - |
 | 3. | Jum’at, 24-03-2023 | Syaironi | Ahmad Hanif | - |
 | 4. | Sabtu, 25-03-2023 | Moh. Arifin | M. Rizal Firdaus | H. Musthofa |
 | 5. | Ahad, 26-03-2023 | Siswanto | Abdul Munir | - |
@@ -124,14 +128,14 @@ type: "schedule"
 | NO | HARI/TANGGAL | IMAM SHOLAT ISYA' | IMAM SHOLAT TARAWIH | KULTUM |
 | --- | --- | --- | --- | --- |
 | 1. | Rabu, 22-03-2023 | Muslimin | Nurhadi | Musimin |
-| 2. | Kamis, 23 -03-2023 | Hervy Qurrotul | M. Rizal Firdaus | - |
+| 2. | Kamis, 23-03-2023 | Hervy Qurrotul | M. Rizal Firdaus | - |
 | 3. | Jum’at, 24-03-2023 | Moh. Atok | M. Syuhud | - |
 | 4. | Sabtu, 25-03-2023 | Ahmad Gimnastiar | A.Farid Akbar | - |
 | 5. | Ahad, 26-03-2023 | Hudi Purwadi | Ahmad Wahyudi | - |
 | 6. | Senin, 27-03-2023 | Drs. Sudarmaji | Zainul Abidin | Drs. Sudarmaji |
 | 7. | Selasa, 28 -03-2023 | Abdul Nafi’ | Abdurrohman | - |
-| 8. | Rabu, 29 -03-2023 | Hervy Qurrotul | M. Syuhud | - |
-| 9. | Kamis, 30 -03-2023 | Muslimin | Moh. Arifin | - |
+| 8. | Rabu, 29-03-2023 | Hervy Qurrotul | M. Syuhud | - |
+| 9. | Kamis, 30-03-2023 | Muslimin | Moh. Arifin | - |
 | 10. | Jum’at, 31 -03-2023 | Moh. Atok | Nurhadi | - |
 | 11. | Sabtu, 01-04-2023 | Siswanto | Aris Munandar | - |
 | 12. | Ahad, 02-04-2023 | Abdul Nafi’ | M. Rizal Firdaus | - |
