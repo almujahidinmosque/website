@@ -16,7 +16,7 @@
     <div class="row align-items-center mb-5">
       <div class="col-lg-9">
         <ul class="list-inline">
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3">
             <div class="d-flex align-items-center">
               <i class="ti-location-pin text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -25,7 +25,7 @@
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3">
             <div class="d-flex align-items-center">
               <i class="ti-calendar text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -34,7 +34,7 @@
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3">
             <div class="d-flex align-items-center">
               <i class="ti-time text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -43,7 +43,7 @@
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3">
             <div class="d-flex align-items-center">
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -75,7 +75,7 @@
       </div>
       <!-- speakers -->
       {{ range .Params.Speaker }}
-      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+      <div class="col-lg-4 col-sm-6 mb-4">
         <div class="media">
          {{ with .image }}<img class="mr-3 img-fluid" src="{{ . | relURL }}" alt="speaker">{{ end }}
           <div class="media-body">
