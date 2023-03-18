@@ -9,37 +9,26 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.webp"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description: "This is meta description"
 # Event image
 image: "images/events/event-1.png"
 # location
 location: "Ngoro, Mojokerto"
 # entry fee
-fee: "Rp. 250.000"
+fee: "Rp. Free"
 # apply url
 apply_url : "#"
 # event speaker
 speaker:
-  # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.png"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.png"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.png"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.png"
-    designation : "Teacher"
-
+  - name : "Mr. Speaker"
+    image : "images/event-speakers/speaker.png"
+    designation : "Speaker"
+  - name : "Mr. Moderator"
+    image : "images/event-speakers/moderator.png"
+    designation : "Moderator"
+  - name : "Mr. Qori"
+    image : "images/event-speakers/moderator.png"
+    designation : "Qori"
 # type
 type: "event"
 ---
