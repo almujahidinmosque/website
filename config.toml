@@ -127,7 +127,7 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 1
   parent = "Berita"
-  name = "Artikel"
+  name = "Blog"
   url = "blog/"
 
   [[Languages.id.menu.main]]
@@ -139,26 +139,26 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 3
   parent = "Berita"
-  name = "Publikasi"
-  url = "publication/"
+  name = "Galeri"
+  url = "gallery/"
 
   [[Languages.id.menu.main]]
   weight = 4
+  parent = "Berita"
+  name = "Dokumen"
+  url = "document/"
+
+  [[Languages.id.menu.main]]
+  weight = 5
   parent = "Berita"
   name = "Pemberitahuan"
   url = "notice/"
 
   [[Languages.id.menu.main]]
-  weight = 5
-  parent = "Berita"
-  name = "Galeri"
-  url = "gallery/"
-
-  [[Languages.id.menu.main]]
   weight = 6
   parent = "Berita"
-  name = "Dokumen"
-  url = "document/"
+  name = "Publikasi"
+  url = "publication/"
 
   [[Languages.id.menu.main]]
   weight = 7
@@ -420,7 +420,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 1
   parent = "News"
-  name = "Article"
+  name = "Blog"
   url = "blog/"
 
   [[Languages.en.menu.main]]
@@ -432,26 +432,26 @@ hasChildren = true
   [[Languages.en.menu.main]]
   weight = 3
   parent = "News"
-  name = "Publication"
-  url = "publication/"
+  name = "Gallery"
+  url = "gallery/"
 
   [[Languages.en.menu.main]]
   weight = 4
+  parent = "News"
+  name = "Document"
+  url = "document/"
+
+  [[Languages.en.menu.main]]
+  weight = 5
   parent = "News"
   name = "Notice"
   url = "notice/"
 
   [[Languages.en.menu.main]]
-  weight = 5
-  parent = "News"
-  name = "Gallery"
-  url = "gallery/"
-
-  [[Languages.en.menu.main]]
   weight = 6
   parent = "News"
-  name = "Document"
-  url = "document/"
+  name = "Publication"
+  url = "publication/"
 
   [[Languages.en.menu.main]]
   weight = 7
