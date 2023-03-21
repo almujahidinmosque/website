@@ -11,9 +11,9 @@ image: "images/blog/{{ .Name }}.png"
 # post author
 author: "Takmir Al-Mujahidin"
 categories:
-    - "masjid"
+    - "Masjid"
 tags:
-    - "artikel"
+    - "Artikel"
 # type
 type: "post"
 ---
