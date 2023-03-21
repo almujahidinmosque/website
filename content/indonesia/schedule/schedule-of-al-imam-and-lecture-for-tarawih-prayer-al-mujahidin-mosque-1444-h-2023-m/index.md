@@ -1,5 +1,5 @@
 ---
-title: "Jadwal Al Imam dan Kultum Sholat Tarawih Masjid Al-Mujahidin 1444 H/2023 M"
+title: "Jadwal Al Imam dan Kultum Shalat Tarawih Masjid Al-Mujahidin 1444 H/2023 M"
 date: 2023-03-17T11:33:12+07:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description: "Jadwal harian imam dan kultum sholat tarawih di masjid Al-Mujahidin Kembangsri"
 # post thumbnail
-image: "images/schedule/schedule-al-imam-and-lecture-tarawih-prayer-al-mujahidin-mosque-1444-h-2023-m.png"
+image: "images/schedule/schedule-of-al-imam-and-lecture-for-tarawih-prayer-al-mujahidin-mosque-1444-h-2023-m.png"
 # post author
 # type
 type: "schedule"
@@ -120,7 +120,7 @@ Berikut ini adalah jadwal imam dan penceramah tarawih pada bulan suci Ramadhan 1
 | 28. | Selasa, 18-04-2023 | Nurhadi | Miftakhudin L | - |
 | 29. | Rabu, 19-04-2023 | Geraldine | Abdurrohman | Syaironi |
 
-## 4. Muholla Al-Amin
+## 4. Musholla Al-Amin
 
 | NO | HARI/TANGGAL | IMAM SHOLAT ISYA' | IMAM SHOLAT TARAWIH | KULTUM |
 | --- | --- | --- | --- | --- |
@@ -153,3 +153,5 @@ Berikut ini adalah jadwal imam dan penceramah tarawih pada bulan suci Ramadhan 1
 | 27. | Senin,17-04-2023 | M. Imron Rosyadi | Hudi Purwadi | - |
 | 28. | Selasa, 18-04-2023 | A. Farid Akbar | Ahmad Gimnastiar | - |
 | 29. | Rabu, 19-04-2023 | Ahmad Gimnastiar | Abdurrohman | - |
+
+*Credit: <a href="https://www.vecteezy.com/free-vector/praying">Praying Vectors by Vecteezy</a>*

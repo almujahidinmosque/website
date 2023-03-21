@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.webp"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Kumpulan jadwal penting seperti jadwal imam dan khotib, kajian, kegiatan ramadhan dan waktu shalat di Masjid Al-Mujahidin Kembangsri."
 ---
