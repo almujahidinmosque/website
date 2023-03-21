@@ -80,7 +80,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training in Digitalization Education"
   button:
@@ -122,8 +122,6 @@ funfacts:
     # funfact item loop
     - name : "SATISFIED CLIENT"
       count : "1400"
-
-# funfact is for about page
 
 ############################# blog ################################
 blog:
