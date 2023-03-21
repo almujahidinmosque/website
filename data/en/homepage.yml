@@ -70,7 +70,7 @@ about:
   button:
     enable : true
     label : "Learn more"
-    link : "about/"
+    link : "profile/history/"
 
 ############################# Course ################################
 course:
