@@ -99,7 +99,7 @@ success_story:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Acara Mendatang"
   # event item comes from "content/**/event" folder.
 
@@ -125,7 +125,7 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Postingan Terbaru"
   # blog item comes from "content/**/blog" folder.
 
