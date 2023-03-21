@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description: "This is meta description"
 # post thumbnail
-image: "images/blog/{{ .Name }}.png"
+image: "images/schedule/{{ .Name }}.png"
 # type
 type: "schedule"
 ---
