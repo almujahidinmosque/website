@@ -47,7 +47,7 @@ It is requested that the delivery of Ta'jil consumption be delivered to the mosq
 | 23 | Friday, 14-04-2023 | Rodiyah | M. Hatta | Umi Kulsum |
 | 24 | Saturday, 15-04-2023 | Aripin/Mlijo | Masjudah | Bu Carik/Ninit |
 | 25 | Sunday, 16-04-2023 | Makrus | Teguh | Faisal |
-| 26 | Monday,17-04-2023 | Sukandar | Yudi | Hervi/Winarti |
+| 26 | Monday,17-04-2023 | Sukandar | Yudi | Hervy Qurrotul |
 | 27 | Tuesday, 18-04-2023 | Taryono | Yunus | Andriyani |
 | 28 | Wednesday, 19-04-2023 | Sudarmaji | Sulistyo | Margono |
 | 29 | Thursday, 20-04-2023 | Siti Mudjaidah | Wahyono | Hamzah |

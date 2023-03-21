@@ -28,10 +28,10 @@ Berikut ini jadwal tadarus untuk Putra:
 | 4. Zainul Abidin | 4. Abdul Munir | 4. Imron Rosyadi | 4. Nazarudin |
 | 5. Abdurrohman | 5. A. Kosim | 5. Muh. Yusuf | 5. Aris Munandar |
 | 6. A. Farid Akbar | 6. Hariono | 6. Ikhsan Basuki | 6. A. Hanif |
-| 7. A. Gimnastiar | 7. Bung Yudo | 7. Muh. Syuhut | 7. Hervi Q |
+| 7. A. Gimnastiar | 7. Bung Yudo | 7. Muh. Syuhut | 7. Hervy Qurrotul |
 | 8. Putra Nur H | 8. Wahyudiono | 8. Arif Rahman H | 8. Alfinsyah |
 | 9. Rivaldi | 9. Afandi | 9. Ainur Rofiq | 9. Hudi P |
-| 10. Zenedin Zidan | 10. Moh. Arifin | 10. Hervi Q | 10. Sulistyo |
+| 10. Zenedin Zidan | 10. Moh. Arifin | 10. Hervy Qurrotul | 10. Sulistyo |
 | 11. Geraldine |  |  |  |
 
 | **JUM’AT** | **SABTU** | **AHAD** |
@@ -45,7 +45,7 @@ Berikut ini jadwal tadarus untuk Putra:
 | 7. A. Gimnastiar | 7. Bung Yudo | 7. Muh. Syuhut |
 | 8. Putra Nur H | 8. Wahyudiono | 8. Arif Rahman H |
 | 9. Rivaldi | 9. Afandi | 9. Ainur Rofiq |
-| 10. Zenedin Zidan | 10. Moh. Arifin | 10. Hervi Q |
+| 10. Zenedin Zidan | 10. Moh. Arifin | 10. Hervy Qurrotul |
 | 11. Geraldine |  |  |
 
 *Credit: <a href="https://www.vecteezy.com/free-vector/muslim">Muslim Vectors by Vecteezy</a>*

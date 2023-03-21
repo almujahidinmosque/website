@@ -47,7 +47,7 @@ Dimohon untuk pengiriman konsumsi Ta’jil diantar ke Masjid sebelum Adzan Maghr
 | 23 | Jum’at, 14-04-2023 | Rodiyah | M. Hatta | Umi Kulsum |
 | 24 | Sabtu, 15-04-2023 | Aripin/Mlijo | Masjudah | Bu Carik/Ninit |
 | 25 | Ahad, 16-04-2023 | Makrus | Teguh | Faisal |
-| 26 | Senin,17-04-2023 | Sukandar | Yudi | Hervi/Winarti |
+| 26 | Senin,17-04-2023 | Sukandar | Yudi | Hervy Qurrotul |
 | 27 | Selasa, 18-04-2023 | Taryono | Yunus | Andriyani |
 | 28 | Rabu, 19-04-2023 | Sudarmaji | Sulistyo | Margono |
 | 29 | Kamis, 20-04-2023 | Siti Mudjaidah | Wahyono | Hamzah |
