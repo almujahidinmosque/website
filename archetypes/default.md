@@ -9,7 +9,7 @@ description: "This is meta description"
 # post thumbnail
 image: "images/blog/{{ .Name }}.png"
 # post author
-author: "Al-Mujahidin Mosque"
+author: "Takmir Al-Mujahidin"
 categories:
     - masjid
 tags:
