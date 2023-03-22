@@ -151,7 +151,7 @@ hasChildren = true
   [[Languages.id.menu.main]]
   weight = 5
   parent = "Berita"
-  name = "Pemberitahuan"
+  name = "Pengumuman"
   url = "notice/"
 
   [[Languages.id.menu.main]]
@@ -386,7 +386,7 @@ url = "service/"
 
 [[Languages.id.menu.footer]]
 weight = 3
-name = "Pemberitahuan"
+name = "Pengumuman"
 url = "notice/"
 
 [[Languages.id.menu.footer]]
