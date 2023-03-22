@@ -56,7 +56,7 @@ Dimohon untuk pengiriman konsumsi Ta’jil diantar ke Masjid sebelum Adzan Maghr
 
 Dimohon untuk pengiriman konsumsi Ta’jil diantar ke Musholla sebelum Adzan Maghrib.
 
-| NO | TANGGAL | PENYUMBANG 1 | PENYUMBANG 2 | PENYUMBANG 3 |
+| NO | TANGGAL | HARI | PENYUMBANG 1 | PENYUMBANG 2 |
 | :---: | --- | --- | --- | --- |
 | 1. | 23 -03-2023 | Kamis | Hj. Riatin/Teguh | Satumi |
 | 2. | 24-03-2023 | Jum’at | Irmah/Sunoto | Listiana |

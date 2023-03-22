@@ -56,7 +56,7 @@ It is requested that the delivery of Ta'jil consumption be delivered to the mosq
 
 It is requested that the delivery of Ta'jil consumption be delivered to the mosque before the Maghrib Adhan
 
-| NO | DATE | CONTRIBUTORS 1 | CONTRIBUTORS 2 | CONTRIBUTORS 3 |
+| NO | DATE | DAY | CONTRIBUTORS 1 | CONTRIBUTORS 2 |
 | :---: | --- | --- | --- | --- |
 | 1. | 23 -03-2023 | Thursday | Hj. Riatin/Teguh | Satumi |
 | 2. | 24-03-2023 | Friday | Irmah/Sunoto | Listiana |
