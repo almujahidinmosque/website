@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description: "This is meta description"
 # document download link
-download_link : "#"
+download_link : "document/pdf/"
 # type
 type: "document"
 ---
