@@ -1,5 +1,5 @@
 ---
-title: "Download"
+title: "Document"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.webp"
