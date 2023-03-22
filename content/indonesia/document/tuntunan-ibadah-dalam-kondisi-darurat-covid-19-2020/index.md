@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.webp"
 # meta description
-description: "This is meta description"
+description: "Fenomena penyebaran wabah Coronavirus Disease (Covid-19) yang merebak di berbagai negara termasuk di Indonesia merupakan pandemik virus yang mengancam kehidupan manusia."
 # document download link
 download_link : "document/pdf/tuntunan-ibadah-dalam-kondisi-darurat-covid-19.pdf"
 # type
