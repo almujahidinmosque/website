@@ -44,22 +44,22 @@ banner_feature:
     # feature item loop
     - name : "Subuh Berkah"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      content : "Kajian penyejuk hati sebagai pembuka waktu di pagi hari. Jamaah kajian juga mendapatkan sarapan pagi yang disediakan oleh takmir."
 
     # feature item loop
     - name : "Jum'at Berkah"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      content : "Shalat jum'at ibadah yang diwajibkan untuk kaum laki-laki. Setelah menuaikan shalat, takmir menyediakan sarapan siang untuk para jamaah."
 
     # feature item loop
     - name : "Pasar Rakyat"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      content : "Kegiatan yang dilakukan 1-2 bulan sekali untuk menunjang perkonomian masyarakat di lingkungan masjid dan sekitarnya."
 
     # feature item loop
     - name : "Pembagian Sembako"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      content : "Salah satu kegiatan ramadhan yang membantu meringankan masyarakat kurang mampu dalam memenuhi kebutuhan sehari-hari."
 
 ############################## about ##################################
 about:
